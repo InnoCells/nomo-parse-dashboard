@@ -10,7 +10,7 @@
     },
     {
       "appId": "22cc6ab2-b0c9-4186-a84b-899c7889345b",
-      "serverURL": "https://api.nomo.es/api",
+      "serverURL": "https://nomoprod.azurewebsites.net/api",
       "masterKey": "bc73edff-b5ee-42e1-bdac-ca326bb5c692",
       "appName": "PRO",
       "readOnlyMasterKey": "193a2a48-895f-497c-a5f9-4dc98c408da3",
@@ -87,6 +87,5 @@
   ],
   "trustProxy": 1,
   "useEncryptedPasswords": true,
-  "iconsFolder": "icons",
-  "allowInsecureHTTP": true
+  "iconsFolder": "icons"
 }
