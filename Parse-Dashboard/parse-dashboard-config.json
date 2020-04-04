@@ -87,5 +87,6 @@
   ],
   "trustProxy": 1,
   "useEncryptedPasswords": true,
-  "iconsFolder": "icons"
+  "iconsFolder": "icons",
+  "allowInsecureHTTP": true
 }
