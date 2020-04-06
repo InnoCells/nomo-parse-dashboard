@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "appId": "b409e0ba-e39a-461e-9b09-cc658d77eb1d",
+      "serverURL": "https://nomodev.azurewebsites.net/api",
+      "masterKey": "4bfb262c-a11a-440c-95a0-1ffbbaaa9ab9",
+      "appName": "DEV",
+      "readOnlyMasterKey": "5ace8e51-9e47-41b4-b048-b71a4ba0b87c"
+    },
+    {
+      "appId": "22cc6ab2-b0c9-4186-a84b-899c7889345b",
+      "serverURL": "https://nomoprod.azurewebsites.net/api",
+      "masterKey": "bc73edff-b5ee-42e1-bdac-ca326bb5c692",
+      "appName": "PRO",
+      "readOnlyMasterKey": "193a2a48-895f-497c-a5f9-4dc98c408da3",
+      "production": true
+    }
+  ],
+  "useEncryptedPasswords": true
+}
